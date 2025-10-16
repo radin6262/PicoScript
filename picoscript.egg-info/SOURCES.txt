@@ -1,0 +1,10 @@
+setup.py
+picoscript/__init__.py
+picoscript/__main__.py
+picoscript/interpreter.py
+picoscript/lexer.py
+picoscript.egg-info/PKG-INFO
+picoscript.egg-info/SOURCES.txt
+picoscript.egg-info/dependency_links.txt
+picoscript.egg-info/entry_points.txt
+picoscript.egg-info/top_level.txt
